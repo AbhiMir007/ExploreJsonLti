@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-22T17:13:16</date>
+  <millis>1598096596537</millis>
+  <sequence>0</sequence>
+  <logger>exploreJSON.core</logger>
+  <level>INFO</level>
+  <class>exploreJSON.Send_HTTP_Request2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The number of cities with parameter name begins with the letter T are2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-22T17:17:51</date>
+  <millis>1598096871730</millis>
+  <sequence>0</sequence>
+  <logger>exploreJSON.core</logger>
+  <level>INFO</level>
+  <class>exploreJSON.ExploreJson</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The number of cities with parameter name begins with the letter T are2</message>
+</record>
+</log>
